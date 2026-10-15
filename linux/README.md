@@ -4,7 +4,7 @@ Practice environment: (WSL / VirtualBox VM / TryHackMe machine)
 
 ## Notes
 
-- [ ] `navigation-and-files.md` : pwd, ls, cd, mkdir, touch, cp, mv, rm
+- [X] `navigation-and-files.md` : pwd, ls, cd, mkdir, touch, cp, mv, rm
 - [ ] `searching-and-pipes.md` : cat, less, head, tail, grep, find, wc, pipes
 - [ ] `file-permissions.md` : rwx, chmod, chown
 - [ ] `users-and-processes.md` : whoami, id, sudo, ps, top, kill
