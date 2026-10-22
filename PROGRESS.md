@@ -1,7 +1,12 @@
 # Progress Log
 
 One short entry per study day. Newest at the top.
-
+## Day 6 - Networking commands in Linux
+- Learned: how to inspect my network, test connectivity, look up DNS and check open ports.
+- Practiced: ip a, ping, traceroute, dig, curl, ss.
+- Note added: [network-commands.md](linux/network-commands.md)
+- Next: review day and Linux cheat sheet.
+  
 ## Day 5 - Users, processes and system info
 - Learned: how to check users and groups, list and stop processes, and why /etc/shadow is protected.
 - Practiced: whoami, id, ps, top, kill, uname, df, free.
