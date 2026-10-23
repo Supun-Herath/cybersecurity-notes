@@ -1,5 +1,11 @@
 # Progress Log
 
+## Day 7 - Review: Linux cheat sheet
+- Learned: consolidated the week's Linux commands into one reference.
+- Practiced: re-ran commands from memory and fixed formatting in my notes.
+- Note added: [cheatsheet.md](linux/cheatsheet.md)
+- Next: networking basics (OSI model).
+  
 One short entry per study day. Newest at the top.
 ## Day 6 - Networking commands in Linux
 - Learned: how to inspect my network, test connectivity, look up DNS and check open ports.
