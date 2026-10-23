@@ -9,5 +9,5 @@ Practice environment: (WSL / VirtualBox VM / TryHackMe machine)
 - [X] `file-permissions.md` : rwx, chmod, chown
 - [X] `users-and-processes.md` : whoami, id, sudo, ps, top, kill
 - [X] `network-commands.md` : ip, ping, traceroute, dig, curl, ss
-- [ ] `cheatsheet.md` : one-page summary of the top 25 commands
+- [X] `cheatsheet.md` : one-page summary of the top 25 commands
 
